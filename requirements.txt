@@ -1,0 +1,4 @@
+pandas>=0.17
+jupyter
+matplotlib
+seaborn
