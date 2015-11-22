@@ -1,3 +1,5 @@
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/BuzzFeedNews/2015-11-refugees-in-the-united-states)
+
 # U.S. Refugee Data and Analysis
 
 This repository contains data and analysis supporting the BuzzFeed News article, "[Where U.S. Refugees Come From — And Go — In Charts](http://www.buzzfeed.com/jsvine/where-us-refugees-come-from-and-go-in-charts)," published on November 19, 2015.
