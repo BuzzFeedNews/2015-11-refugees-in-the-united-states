@@ -1,5 +1,3 @@
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/BuzzFeedNews/2015-11-refugees-in-the-united-states)
-
 # U.S. Refugee Data and Analysis
 
 This repository contains data and analysis supporting the BuzzFeed News article, "[Where U.S. Refugees Come From — And Go — In Charts](http://www.buzzfeed.com/jsvine/where-us-refugees-come-from-and-go-in-charts)," published on November 19, 2015.
@@ -15,6 +13,9 @@ To calculate per-capita arrivals by state, the analysis uses the [Census Bureau'
 The code behind the analysis and charts was written in Python, and [can be found here](notebooks/us-refugee-analysis.ipynb).
 
 To re-run the analysis yourself, you'll need to install the Python requirements listed in [`requirements.txt`](requirements.txt).
+
+Alternatively, you can [run the analysis in your browser via Binder](http://mybinder.org/repo/BuzzFeedNews/2015-11-refugees-in-the-united-states) — no installation required.
+
 
 ## Questions / Feedback?
 
